@@ -23,7 +23,8 @@ public class custom_order {
         // Prompt user to input first name
         System.out.print("What is your first name? ");
         firstName = keyboard.nextLine();
-
+        
+        // Greet with Menu
         System.out.print(firstName + ", please see our MENU below: ");
         System.out.print("\n"); 
     
