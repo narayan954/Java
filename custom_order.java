@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class custom_order {
     public static void main(String[] args) {
         
+        // Creating Scanner Object
     	Scanner keyboard = new Scanner (System.in); 
         
         String firstName; // User's first name
